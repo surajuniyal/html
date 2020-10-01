@@ -1,4 +1,4 @@
-csj-html-basic-markup
+CSJ-HTML-basic-markup
 =====================
 
 Welcome to the Basic Markup project from CSJ: Introduction to Web Development.
@@ -20,4 +20,5 @@ expected to use a set of common tags:
 * images (img)
 * text formatting (b, i, sup, sub)
 
-Use the following link to help you find the resources you need for this project: http://www.w3schools.com/html/default.asp
+# Use the following link to help you find the resources you need for this project:
+http://www.w3schools.com/html/default.asp
